@@ -1,4 +1,4 @@
-# AESDecrypt
+# AESDecrypt (Grafana)
 This project is an encryption and decryption tool written in python. (3)
 To use the project, Python 3 and the `cryptography` library must be installed.
 $ pip3 install cryptography
