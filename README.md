@@ -7,7 +7,7 @@
 ## Requirements
 
 - **Python 3.x**
-- **`cryptography` library**: Install it using the following command:
+- **`cryptography` library**: Install it following command:
   ```bash
   pip3 install cryptography
 
