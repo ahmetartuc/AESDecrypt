@@ -10,3 +10,16 @@
 - **`cryptography` library**: Install it using the following command:
   ```bash
   pip3 install cryptography
+
+## Example Output
+[*] grafanaIni_secretKey= SW2YcwTIb9zpOOhoPsMm
+
+[*] DataSourcePassword= anBneWFNQ2z+IDGhz3a7wxaqjimuglSXTeMvhbvsveZwVzreNJSw+hsV4w==  # change this
+
+[*] plainText= SuperSecureP@ssw0rd
+
+[*] grafanaIni_secretKey= SW2YcwTIb9zpOOhoPsMm
+
+[*] PlainText= jas502n
+
+[*] EncodePassword= 5FLHjXc7dqvKoIc4JFt1i2iCYPxGwBJn3CJbv8GSRw==
